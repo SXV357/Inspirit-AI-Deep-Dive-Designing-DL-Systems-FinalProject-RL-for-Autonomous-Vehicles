@@ -7,4 +7,4 @@ The environment in which we will be training our agent has certain components an
   2. Actions - The possible actions the agent can take in a a given state(traffic light)
   3. Rewards - A measure of how good taking a certain action in a state is
   
-  ![](images/observations.png)
+  ![](Images/Observations.png)
