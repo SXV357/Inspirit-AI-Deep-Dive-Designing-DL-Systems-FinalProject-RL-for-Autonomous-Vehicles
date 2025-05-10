@@ -1,5 +1,11 @@
 # Inspirit-AI-Deep-Dive-Designing-DL-Systems-FinalProject-RL-for-Autonomous-Vehicles
 
+<div align="center">
+  <a href="https://deepwiki.com/SXV357/Inspirit-AI-Deep-Dive-Designing-DL-Systems-FinalProject-RL-for-Autonomous-Vehicles">
+    <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
+  </a>
+</div>
+
 Acknowledgements: Since this was a group project that didn't involve pushing changes to a central repository, but rather working in our individual Jupyter Notebooks, I would like to acknowledge other group members who worked with me on this - Sainik Ghosh, Rohan Abraham, Athulya Saravanakumar, Marc Donghun Yoo, and Valerie Eng. I would also like to acknowledge Dr. Kuan Chuen Wu, Lead Data Scientist at CatapultX, for guiding me and our group in completing in project. Last, but not the least, I would like to thank Inspirit AI for helping with the starter code on most of these notebooks, especially with pre-defined functions for loading in and pre-processing datasets, library import statements, and starter code for various algorithm implementations throughout each of the notebooks.
 
 The overall aim of this project was to teach a reinforcement learning agent to drive by itself by learning from its surroundings, and using that information to make a decision that will lead to the best reward. Some considerations going into this project were how automation can help ensure personal/environmental safety, prevent motor vehicle accidents, devastation of impaired driving, drugged driving, and unbelted vehicle occupants.
